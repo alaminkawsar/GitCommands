@@ -1,0 +1,12 @@
+1.git config ----> used to configure user name/email.
+ex: git config --global user.email alaminkawsar8643@gmail.com
+
+2. git init ---->  create a new repository/Folder.
+ex: git init NewFolder
+
+3. git add ----> used in order to add files to the index.
+ex: git add temp.txt
+
+4. git clone ----> used for repository checking out purposes. If the repository lies on a remote server,use:
+ex: git clone alex@93.188.160.58:/path/to/reposit
+
